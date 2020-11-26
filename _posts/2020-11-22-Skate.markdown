@@ -2,8 +2,6 @@
 layout: post
 title:  "Skate"
 date:   2020-11-22 20:28:43 +0100
-categories: blog
-background: '/img/posts/03.jpg'
 ---
 
 El **skateboarding** o simplemente skate, es un deporte que consiste en deslizarse sobre un monopatín y a la vez poder realizar diversos trucos, gran parte de ellos elevando la tabla del suelo, haciendo piruetas con ella en el aire.2​ Se practica con un monopatín o patineta, tabla de madera plana y doblada por los extremos que tiene dos ejes y cuatro ruedas, con dos rodamientos en cada una de sus cuatro ruedas, preferentemente en una superficie plana, en cualquier lugar donde se pueda rodar, ya sea en la calle o en los parques de patinaje.
